@@ -1,4 +1,7 @@
-### Hi there 👋
+# Halo👋
+Perkenalkan nama saya **Ahmad Ramadhan Auni**  
+
+Saya seorang mahasiswa program studi teknik informatika Universitas Negeri Semarang
 
 <!--
 **auni-st/auni-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
