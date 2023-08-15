@@ -3,6 +3,13 @@ Perkenalkan nama saya **Ahmad Ramadhan Auni**
 
 Saya seorang mahasiswa program studi teknik informatika Universitas Negeri Semarang
 
+<p align="left">
+<a href="https://github.com/auni-st">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=auni-st&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=auni-st&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **auni-st/auni-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
